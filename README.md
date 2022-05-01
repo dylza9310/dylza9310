@@ -5,7 +5,7 @@ I’m @dylza9310, or Dylan
 > I believe in learning, development and growth. Knowledge is a great value that should be shared when owned. We always learn, even at an expert level we can continue to grow and learn. Humans are not robot, at least not yet, treat everyone with respect and equality. 💡
 
 **Goals/Accomplishments:**
-- **May-December 2022 :** Look for more opportunity to learn and develop : Advanced SQL&R, Google IT Support, A+, Security +
+- **May-December 2022 :** Look for more opportunity to learn and develop : Advanced SQL&R, Python, Security +
 - **May 2022:** Finalize first case study and set up portfolio
 - **April 2022:** [Google Data Analytics Certificate](https://coursera.org/share/846cbf27c2c09ad8252cc84fe0ed8724)
 
